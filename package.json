@@ -1,0 +1,19 @@
+{
+  "name": "game-tic-tac-toi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TusharJain128/Game-tic-tac-toi.git"
+  },
+  "author": "Tushar Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TusharJain128/Game-tic-tac-toi/issues"
+  },
+  "homepage": "https://github.com/TusharJain128/Game-tic-tac-toi#readme"
+}
