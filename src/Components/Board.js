@@ -49,7 +49,7 @@ const Board = () => {
     }
 
     return (
-        <>
+        <div align="center">
             <div className="container m-5">
                 <div className="container d-flex  align-items-center">
                     <Square SquareValue={() => handleClick(0)} value={state[0]} />
@@ -78,7 +78,7 @@ const Board = () => {
                     )
                 }
             </div>
-        </>
+        </div>
     )
 }
 
